@@ -172,12 +172,12 @@ AI Internship projects and work.
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&hide_border=false" alt="GitHub Stats" width="100%"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" width="100%"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&hide_border=false&cache_seconds=86400" alt="GitHub Stats" width="100%"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false&cache_seconds=86400" alt="Top Languages" width="100%"/></td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=mfahadsaleem001&theme=nord&border=7dd3fc&fire=7dd3fc&ring=7dd3fc&currStreakLabel=7dd3fc" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=mfahadsaleem001&theme=nord&border=7dd3fc&fire=7dd3fc&ring=7dd3fc&currStreakLabel=7dd3fc&cache_seconds=86400" alt="Streak Stats" />
 
 </div>
 
