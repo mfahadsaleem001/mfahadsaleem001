@@ -37,13 +37,12 @@
 ### NovaCart
 A modern E-Commerce web application built with Flask and SQLite featuring product browsing, shopping cart, checkout, order management, and a responsive user interface.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=NovaCart&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="NovaCart" />
-
-| Layer | Technology |
-|---|---|
-| Backend | Flask (Python) |
-| Database | SQLite |
-| Frontend | Responsive Web UI |
+<p align="center">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white)](https://lnkd.in/daCbJha8) [![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/NovaCart)
 
@@ -54,13 +53,11 @@ A modern E-Commerce web application built with Flask and SQLite featuring produc
 ### AI-Notes-Summarizer
 AI-powered Notes Assistant that summarizes PDF, DOCX, and TXT files, generates quizzes, provides wrong answer analysis, and exports AI-generated summaries into PDF and DOCX formats for smarter learning.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=AI-Notes-Summarizer&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="AI-Notes-Summarizer" />
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Core Function | PDF/DOCX/TXT summarization, quiz generation, wrong-answer analysis |
-| Export | PDF & DOCX |
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOCX-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/>
+</p>
 
 [![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/AI-Notes-Summarizer)
 
@@ -71,13 +68,11 @@ AI-powered Notes Assistant that summarizes PDF, DOCX, and TXT files, generates q
 ### auto-reply-ai-chatbot
 Python-based AI chatbot that automatically generates WhatsApp replies using Groq Llama 3.3.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=auto-reply-ai-chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="auto-reply-ai-chatbot" />
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| AI Model | Groq Llama 3.3 |
-| Platform | WhatsApp Automation |
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq%20Llama%203.3-F55036?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+</p>
 
 [![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/auto-reply-ai-chatbot)
 
@@ -88,13 +83,11 @@ Python-based AI chatbot that automatically generates WhatsApp replies using Groq
 ### employee-manager
 A Python CLI application for managing employee records using SQLite with CRUD operations and OOP.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=employee-manager&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="employee-manager" />
-
-| Layer | Technology |
-|---|---|
-| Language | Python (OOP) |
-| Database | SQLite |
-| Interface | CLI |
+<p align="center">
+<img src="https://img.shields.io/badge/Python%20(OOP)-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=gnubash&logoColor=white"/>
+</p>
 
 [![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/employee-manager)
 
@@ -105,12 +98,10 @@ A Python CLI application for managing employee records using SQLite with CRUD op
 ### 5th_semster_project_DSA — Weather Tracking System
 A Semester project built with Python that lets users add, delete, and search weather data by date, display weather records, and calculate maximum, minimum, and average temperatures across all records.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=5th_semster_project_DSA&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="5th_semster_project_DSA" />
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Core Function | Add/delete/search weather records, compute max/min/avg temperature |
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures-1e3a8a?style=flat-square"/>
+</p>
 
 [![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/5th_semster_project_DSA)
 
@@ -121,12 +112,10 @@ A Semester project built with Python that lets users add, delete, and search wea
 ### AI-Agents
 5 AI agents developed in Python for automation and real-world problem solving.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=AI-Agents&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="AI-Agents" />
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Core Function | 5 AI agents for automation & problem solving |
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-7dd3fc?style=flat-square&logoColor=1e3a8a"/>
+</p>
 
 [![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/AI-Agents)
 
@@ -137,12 +126,10 @@ A Semester project built with Python that lets users add, delete, and search wea
 ### AI-Internship
 AI Internship projects and work.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=AI-Internship&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="AI-Internship" />
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Focus | AI Internship Projects |
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Internship-7dd3fc?style=flat-square&logoColor=1e3a8a"/>
+</p>
 
 [![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/AI-Internship)
 
