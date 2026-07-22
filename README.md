@@ -34,7 +34,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
 
-### 🛒 NovaCart
+### NovaCart
 A modern E-Commerce web application built with Flask and SQLite featuring product browsing, shopping cart, checkout, order management, and a responsive user interface.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=NovaCart&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="NovaCart" />
@@ -45,13 +45,13 @@ A modern E-Commerce web application built with Flask and SQLite featuring produc
 | Database | SQLite |
 | Frontend | Responsive Web UI |
 
-[🔗 Live Demo](https://lnkd.in/daCbJha8) • [💻 Code](https://github.com/mfahadsaleem001/NovaCart)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white)](https://lnkd.in/daCbJha8) [![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/NovaCart)
 
 ---
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
 
-### 📝 AI-Notes-Summarizer
+### AI-Notes-Summarizer
 AI-powered Notes Assistant that summarizes PDF, DOCX, and TXT files, generates quizzes, provides wrong answer analysis, and exports AI-generated summaries into PDF and DOCX formats for smarter learning.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=AI-Notes-Summarizer&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="AI-Notes-Summarizer" />
@@ -62,13 +62,13 @@ AI-powered Notes Assistant that summarizes PDF, DOCX, and TXT files, generates q
 | Core Function | PDF/DOCX/TXT summarization, quiz generation, wrong-answer analysis |
 | Export | PDF & DOCX |
 
-[💻 Code](https://github.com/mfahadsaleem001/AI-Notes-Summarizer)
+[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/AI-Notes-Summarizer)
 
 ---
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
 
-### 💬 auto-reply-ai-chatbot
+### auto-reply-ai-chatbot
 Python-based AI chatbot that automatically generates WhatsApp replies using Groq Llama 3.3.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=auto-reply-ai-chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="auto-reply-ai-chatbot" />
@@ -79,13 +79,13 @@ Python-based AI chatbot that automatically generates WhatsApp replies using Groq
 | AI Model | Groq Llama 3.3 |
 | Platform | WhatsApp Automation |
 
-[💻 Code](https://github.com/mfahadsaleem001/auto-reply-ai-chatbot)
+[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/auto-reply-ai-chatbot)
 
 ---
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
 
-### 👔 employee-manager
+### employee-manager
 A Python CLI application for managing employee records using SQLite with CRUD operations and OOP.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=employee-manager&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="employee-manager" />
@@ -96,13 +96,13 @@ A Python CLI application for managing employee records using SQLite with CRUD op
 | Database | SQLite |
 | Interface | CLI |
 
-[💻 Code](https://github.com/mfahadsaleem001/employee-manager)
+[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/employee-manager)
 
 ---
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
 
-### ☀️ 5th_semster_project_DSA — Weather Tracking System
+### 5th_semster_project_DSA — Weather Tracking System
 A Semester project built with Python that lets users add, delete, and search weather data by date, display weather records, and calculate maximum, minimum, and average temperatures across all records.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=5th_semster_project_DSA&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="5th_semster_project_DSA" />
@@ -112,13 +112,13 @@ A Semester project built with Python that lets users add, delete, and search wea
 | Language | Python |
 | Core Function | Add/delete/search weather records, compute max/min/avg temperature |
 
-[💻 Code](https://github.com/mfahadsaleem001/5th_semster_project_DSA)
+[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/5th_semster_project_DSA)
 
 ---
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
 
-### 🤖 AI-Agents
+### AI-Agents
 5 AI agents developed in Python for automation and real-world problem solving.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=AI-Agents&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="AI-Agents" />
@@ -128,13 +128,13 @@ A Semester project built with Python that lets users add, delete, and search wea
 | Language | Python |
 | Core Function | 5 AI agents for automation & problem solving |
 
-[💻 Code](https://github.com/mfahadsaleem001/AI-Agents)
+[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/AI-Agents)
 
 ---
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
 
-### 🎓 AI-Internship
+### AI-Internship
 AI Internship projects and work.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfahadsaleem001&repo=AI-Internship&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="AI-Internship" />
@@ -144,7 +144,7 @@ AI Internship projects and work.
 | Language | Python |
 | Focus | AI Internship Projects |
 
-[💻 Code](https://github.com/mfahadsaleem001/AI-Internship)
+[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/AI-Internship)
 
 ---
 
