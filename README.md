@@ -44,7 +44,10 @@ A modern E-Commerce web application built with Flask and SQLite featuring produc
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white)](https://lnkd.in/daCbJha8) [![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/NovaCart)
+<p align="center">
+<a href="https://lnkd.in/daCbJha8"><img src="https://img.shields.io/badge/🔗_LIVE_DEMO-1e3a8a?style=for-the-badge&labelColor=7dd3fc&color=1e3a8a" alt="Live Demo"/></a>&nbsp;&nbsp;
+<a href="https://github.com/mfahadsaleem001/NovaCart"><img src="https://img.shields.io/badge/GITHUB_CODE-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a&labelColor=1e3a8a" alt="Code"/></a>
+</p>
 
 ---
 
@@ -59,7 +62,9 @@ AI-powered Notes Assistant that summarizes PDF, DOCX, and TXT files, generates q
 <img src="https://img.shields.io/badge/DOCX-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/>
 </p>
 
-[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/AI-Notes-Summarizer)
+<p align="center">
+<a href="https://github.com/mfahadsaleem001/AI-Notes-Summarizer"><img src="https://img.shields.io/badge/GITHUB_CODE-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a&labelColor=1e3a8a" alt="Code"/></a>
+</p>
 
 ---
 
@@ -74,7 +79,9 @@ Python-based AI chatbot that automatically generates WhatsApp replies using Groq
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </p>
 
-[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/auto-reply-ai-chatbot)
+<p align="center">
+<a href="https://github.com/mfahadsaleem001/auto-reply-ai-chatbot"><img src="https://img.shields.io/badge/GITHUB_CODE-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a&labelColor=1e3a8a" alt="Code"/></a>
+</p>
 
 ---
 
@@ -89,7 +96,9 @@ A Python CLI application for managing employee records using SQLite with CRUD op
 <img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
 
-[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/employee-manager)
+<p align="center">
+<a href="https://github.com/mfahadsaleem001/employee-manager"><img src="https://img.shields.io/badge/GITHUB_CODE-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a&labelColor=1e3a8a" alt="Code"/></a>
+</p>
 
 ---
 
@@ -103,7 +112,9 @@ A Semester project built with Python that lets users add, delete, and search wea
 <img src="https://img.shields.io/badge/Data%20Structures-1e3a8a?style=flat-square"/>
 </p>
 
-[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/5th_semster_project_DSA)
+<p align="center">
+<a href="https://github.com/mfahadsaleem001/5th_semster_project_DSA"><img src="https://img.shields.io/badge/GITHUB_CODE-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a&labelColor=1e3a8a" alt="Code"/></a>
+</p>
 
 ---
 
@@ -117,7 +128,9 @@ A Semester project built with Python that lets users add, delete, and search wea
 <img src="https://img.shields.io/badge/AI%20Agents-7dd3fc?style=flat-square&logoColor=1e3a8a"/>
 </p>
 
-[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/AI-Agents)
+<p align="center">
+<a href="https://github.com/mfahadsaleem001/AI-Agents"><img src="https://img.shields.io/badge/GITHUB_CODE-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a&labelColor=1e3a8a" alt="Code"/></a>
+</p>
 
 ---
 
@@ -131,7 +144,9 @@ AI Internship projects and work.
 <img src="https://img.shields.io/badge/AI%20Internship-7dd3fc?style=flat-square&logoColor=1e3a8a"/>
 </p>
 
-[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a)](https://github.com/mfahadsaleem001/AI-Internship)
+<p align="center">
+<a href="https://github.com/mfahadsaleem001/AI-Internship"><img src="https://img.shields.io/badge/GITHUB_CODE-7dd3fc?style=for-the-badge&logo=github&logoColor=1e3a8a&labelColor=1e3a8a" alt="Code"/></a>
+</p>
 
 ---
 
@@ -155,8 +170,12 @@ AI Internship projects and work.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" />
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&hide_border=false" alt="GitHub Stats" width="100%"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" width="100%"/></td>
+</tr>
+</table>
 
 <img src="https://streak-stats.demolab.com/?user=mfahadsaleem001&theme=nord&border=7dd3fc&fire=7dd3fc&ring=7dd3fc&currStreakLabel=7dd3fc" alt="Streak Stats" />
 
@@ -207,9 +226,9 @@ Completed a course covering the foundational concepts and applications of Genera
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfahadsaleem001/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fahad-saleem-b9788133a)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=1e3a8a)](mailto:mfahadsaleem001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc&labelColor=1e3a8a)](https://github.com/mfahadsaleem001/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/muhammad-fahad-saleem-b9788133a)
+[![Email](https://img.shields.io/badge/EMAIL-7dd3fc?style=for-the-badge&logo=gmail&logoColor=1e3a8a&labelColor=7dd3fc)](mailto:mfahadsaleem001@gmail.com)
 
 </div>
 
