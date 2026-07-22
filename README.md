@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7dd3fc&height=200&section=header&text=Muhammad%20Fahad%20Saleem&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Software%20Engineering%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7dd3fc&height=260&section=header&text=Muhammad%20Fahad%20Saleem&fontSize=38&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=Software%20Engineering%20Student%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16)
 
 <a href="https://github.com/mfahadsaleem001">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Python+Developer;AI+Enthusiast;Building+NovaCart+-+Flask+E-Commerce+App;Automating+Tasks+with+AI+Agents+%26+Chatbots;Learning%2C+Building%2C+and+Sharing+Projects" alt="Typing SVG" />
