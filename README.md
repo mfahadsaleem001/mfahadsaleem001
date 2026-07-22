@@ -17,27 +17,22 @@
 
 ## 🙋 Who I Am
 
-```typescript
-const muhammadFahadSaleem = {
-  title: "Software Engineering Student | Python Developer | AI Enthusiast",
-  stack: ["Python", "C++", "SQL", "Git", "GitHub"],
-  launchedProjects: [
-    "NovaCart — Flask E-Commerce Platform",
-    "AI-Notes-Summarizer",
-    "auto-reply-ai-chatbot",
-    "employee-manager",
-    "5th_semster_project_DSA — Weather Tracking System",
-    "AI-Agents",
-    "AI-Internship"
-  ],
-  status: "Learning, building, and sharing projects",
-  openTo: ["Full-time roles", "Internships", "Collaboration on AI/Python projects"]
-};
-```
+<div align="center">
+
+🎓 **Software Engineering Student**  &nbsp;|&nbsp;  🐍 **Python Developer**  &nbsp;|&nbsp;  🤖 **AI Enthusiast**
+
+</div>
+
+- 🧠 **Core Skills:** Python, C++, SQL, Git & GitHub
+- 🚀 **Launched Projects:** NovaCart, AI-Notes-Summarizer, auto-reply-ai-chatbot, employee-manager, AI-Agents, AI-Internship & more
+- 📌 **Currently:** Learning, building, and sharing projects
+- 🎯 **Open To:** Full-time roles · Internships · Collaboration on AI/Python projects
 
 ---
 
 ## 🚀 Featured Projects
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
 
 ### 🛒 NovaCart
 A modern E-Commerce web application built with Flask and SQLite featuring product browsing, shopping cart, checkout, order management, and a responsive user interface.
@@ -54,6 +49,8 @@ A modern E-Commerce web application built with Flask and SQLite featuring produc
 
 ---
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
+
 ### 📝 AI-Notes-Summarizer
 AI-powered Notes Assistant that summarizes PDF, DOCX, and TXT files, generates quizzes, provides wrong answer analysis, and exports AI-generated summaries into PDF and DOCX formats for smarter learning.
 
@@ -68,6 +65,8 @@ AI-powered Notes Assistant that summarizes PDF, DOCX, and TXT files, generates q
 [💻 Code](https://github.com/mfahadsaleem001/AI-Notes-Summarizer)
 
 ---
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
 
 ### 💬 auto-reply-ai-chatbot
 Python-based AI chatbot that automatically generates WhatsApp replies using Groq Llama 3.3.
@@ -84,6 +83,8 @@ Python-based AI chatbot that automatically generates WhatsApp replies using Groq
 
 ---
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
+
 ### 👔 employee-manager
 A Python CLI application for managing employee records using SQLite with CRUD operations and OOP.
 
@@ -99,6 +100,8 @@ A Python CLI application for managing employee records using SQLite with CRUD op
 
 ---
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
+
 ### ☀️ 5th_semster_project_DSA — Weather Tracking System
 A Semester project built with Python that lets users add, delete, and search weather data by date, display weather records, and calculate maximum, minimum, and average temperatures across all records.
 
@@ -113,6 +116,8 @@ A Semester project built with Python that lets users add, delete, and search wea
 
 ---
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
+
 ### 🤖 AI-Agents
 5 AI agents developed in Python for automation and real-world problem solving.
 
@@ -126,6 +131,8 @@ A Semester project built with Python that lets users add, delete, and search wea
 [💻 Code](https://github.com/mfahadsaleem001/AI-Agents)
 
 ---
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:7dd3fc&height=3&section=header)
 
 ### 🎓 AI-Internship
 AI Internship projects and work.
@@ -170,11 +177,30 @@ AI Internship projects and work.
 
 ---
 
-## 🏆 Trophies
+## 🎓 Certifications
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mfahadsaleem001&theme=nord&no-frame=true&no-bg=true&row=1&column=7)
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🌐 Remote Internship
+Successfully completed a remote internship program, gaining hands-on real-world development experience.
+
+![Certificate](https://img.shields.io/badge/Certified-Remote%20Internship-1e3a8a?style=for-the-badge)
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 Introduction to Generative AI
+Completed a course covering the foundational concepts and applications of Generative AI.
+
+![Certificate](https://img.shields.io/badge/Certified-Intro%20to%20Generative%20AI-7dd3fc?style=for-the-badge&logoColor=1e3a8a)
+
+</td>
+</tr>
+</table>
 
 </div>
 
