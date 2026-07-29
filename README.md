@@ -130,26 +130,27 @@ A repository exploring different types of AI agents and their concepts in Artifi
 
 <td align="center">
 
-🏅 <br>
-<b>Remote Developers Hub Corporation</b>
+🏅
+
+<b>Remote Internship Completion Certificate</b>
 
 <br><br>
 
-<a href="assets/certificates/remote-developers-hub.pdf">
+<a href="assets/certificates/Remote%20Internship%20Completion%20Certificate.pdf">
 View Certificate
 </a>
 
 </td>
 
-
 <td align="center">
 
-🤖 <br>
-<b>Introduction to Generative AI</b>
+🤖
+
+<b>Introduction To Generative AI</b>
 
 <br><br>
 
-<a href="assets/certificates/intro-gen-ai.pdf">
+<a href="assets/certificates/Introduction%20To%20Generative%20AI.pdf">
 View Certificate
 </a>
 
