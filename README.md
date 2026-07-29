@@ -32,16 +32,17 @@ Building intelligent software solutions with Python, Artificial Intelligence, an
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Programming Skills
 
-## 💻 Programming Languages
+| Technology | Level |
+|------------|-------|
+| 🐍 Python | Advanced |
+| ⚙️ C++ | Basic |
+| 🗄️ SQL & Databases | Basic |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-
-## 🤖 Artificial Intelligence & Machine Learning
+# 🤖 Artificial Intelligence & Machine Learning
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
@@ -51,8 +52,7 @@ Building intelligent software solutions with Python, Artificial Intelligence, an
 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-
-## 📚 Libraries & APIs
+### Libraries & APIs
 
 - Pandas
 - NumPy
@@ -61,20 +61,23 @@ Building intelligent software solutions with Python, Artificial Intelligence, an
 - OpenAI API
 - Google Gemini API
 
+---
 
-## 🌐 Backend Development
+# 🌐 Backend Development
 
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
+---
 
-## 🗄️ Databases
+# 🗄️ Databases
 
 - SQLite
 - MySQL
 - PostgreSQL
 
+---
 
-## 🛠 Tools
+# 🛠 Tools
 
 - Git
 - GitHub
@@ -161,7 +164,7 @@ Remote Internship Certificate
 
 <br>
 
-Generative AI
+Certificate
 
 </td>
 
@@ -179,26 +182,30 @@ Generative AI
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=mfahadsaleem001&theme=tokyonight&hide_border=true" />
-
 </div>
+
+---
 
 # 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/muhammad-fahad-saleem-b9788133a">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:mfahadsaleem001@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://mfahadsaleem001.github.io/portfolio/">
+
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
 </a>
 
 </p>
