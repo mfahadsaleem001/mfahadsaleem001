@@ -161,7 +161,7 @@ Remote Internship Certificate
 
 <br>
 
-Certificate
+Generative AI
 
 </td>
 
@@ -177,15 +177,11 @@ Certificate
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight" width="48%" />
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mfahadsaleem001&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mfahadsaleem001&theme=tokyonight" width="48%" />
 
 </div>
-
----
 
 # 🌐 Connect With Me
 
