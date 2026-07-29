@@ -177,9 +177,11 @@ Generative AI
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mfahadsaleem001&theme=tokyonight" width="48%" />
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mfahadsaleem001&theme=tokyonight&hide_border=true" />
 
 </div>
 
