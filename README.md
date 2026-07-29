@@ -2,19 +2,19 @@
 
 # Hi 👋, I'm Muhammad Fahad Saleem
 
-### AI & Python Developer | Machine Learning Enthusiast | BS Software Engineering Student
+### AI & Python Developer | AI & ML Enthusiast | BS Software Engineering Student
 
 <p>
 Building intelligent software solutions with Python, Artificial Intelligence, and Machine Learning.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+%26+Python+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+%26+Python+Developer;AI+%26+ML+Enthusiast;Generative+AI+Explorer;Building+Real+World+Projects" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Final Year **BS Software Engineering Student** at **University of Haripur**
 - 🇵🇰 Based in Pakistan
@@ -24,7 +24,7 @@ Building intelligent software solutions with Python, Artificial Intelligence, an
 
 ---
 
-## 🔭 Currently Working On
+# 🔭 Currently Working On
 
 - Building AI-powered applications using Python and modern AI technologies
 - Exploring Machine Learning and Generative AI solutions
@@ -32,16 +32,16 @@ Building intelligent software solutions with Python, Artificial Intelligence, an
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-### 🤖 Artificial Intelligence & Machine Learning
+## 🤖 Artificial Intelligence & Machine Learning
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
@@ -52,7 +52,7 @@ Building intelligent software solutions with Python, Artificial Intelligence, an
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 
-### 📚 AI & Data Libraries
+## 📚 Libraries & APIs
 
 - Pandas
 - NumPy
@@ -62,19 +62,19 @@ Building intelligent software solutions with Python, Artificial Intelligence, an
 - Google Gemini API
 
 
-### 🌐 Backend Development
+## 🌐 Backend Development
 
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 - SQLite
 - MySQL
 - PostgreSQL
 
 
-### 🛠 Tools
+## 🛠 Tools
 
 - Git
 - GitHub
@@ -86,7 +86,7 @@ Building intelligent software solutions with Python, Artificial Intelligence, an
 
 ## 📝 AI Notes Summarizer
 
-An AI-powered application that summarizes documents and helps users extract important information using Generative AI.
+AI-powered application that summarizes documents and generates useful information using Generative AI.
 
 ---
 
@@ -104,7 +104,7 @@ A modern Flask-based e-commerce application with product management, authenticat
 
 ## 📚 AI Internship
 
-A collection of my AI internship learning journey, including weekly tasks, experiments, and practical implementations.
+A collection of my AI internship journey including weekly tasks, experiments, and practical implementations.
 
 ---
 
@@ -130,29 +130,38 @@ A repository exploring different types of AI agents and their concepts in Artifi
 
 <td align="center">
 
-🏅
-
-<b>Remote Internship Completion Certificate</b>
-
-<br><br>
-
 <a href="assets/certificates/Remote%20Internship%20Completion%20Certificate.pdf">
-View Certificate
+
+<img src="assets/certificates/remote-internship-certificate.png" width="350">
+
 </a>
+
+<br>
+
+<b>Remote Developers Hub Corporation</b>
+
+<br>
+
+Remote Internship Certificate
 
 </td>
 
+
 <td align="center">
 
-🤖
+<a href="assets/certificates/Introduction%20To%20Generative%20AI.pdf">
+
+<img src="assets/certificates/introduction-to-generative-ai-certificate.png" width="350">
+
+</a>
+
+<br>
 
 <b>Introduction To Generative AI</b>
 
-<br><br>
+<br>
 
-<a href="assets/certificates/Introduction%20To%20Generative%20AI.pdf">
-View Certificate
-</a>
+Certificate
 
 </td>
 
@@ -162,13 +171,15 @@ View Certificate
 
 </div>
 
-# 📊 GitHub Stats
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<br/>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfahadsaleem001&theme=tokyonight&hide_border=true" />
 
