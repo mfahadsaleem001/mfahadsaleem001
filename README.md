@@ -181,7 +181,7 @@ Generative AI
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mfahadsaleem001&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mfahadsaleem001&theme=tokyonight&hide_border=true" />
 
 </div>
 
