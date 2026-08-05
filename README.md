@@ -4,17 +4,15 @@
 
 # 👋 Hi, I'm Muhammad Fahad Saleem
 
-### 💻 Software Engineer
+### 💻 Software Engineer | AI & Python Developer
 
-### Building scalable AI-powered applications with Python, Artificial Intelligence, Machine Learning & Generative AI.
+Building intelligent applications with Python, Artificial Intelligence, Machine Learning & Generative AI.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Python+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Building+Real+World+AI+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Python+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Building+Real+World+Projects"/>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=mfahadsaleem001&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/mfahadsaleem001?style=for-the-badge"/>
 
 </div>
 
@@ -23,23 +21,23 @@
 # 👨‍💻 About Me
 
 - 🎓 Final Year **BS Software Engineering Student**
-- 🏫 **University of Haripur**
+- 🏫 University of Haripur
 - 🇵🇰 Based in Pakistan
 - 💻 Software Engineer & AI Developer
-- 🐍 Passionate Python Developer
+- 🐍 Python Developer passionate about intelligent applications
 - 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
-- 🚀 Building intelligent software solutions using modern technologies
-- 🌱 Always learning and improving through real-world projects
+- 🚀 Building real-world AI-powered solutions
+- 🌱 Continuously learning and improving software engineering skills
 
 ---
 
 # 🔭 Currently Working On
 
-- 🤖 AI Applications
-- 🧠 Machine Learning
-- ⚡ FastAPI & Flask
-- 🚀 Generative AI
-- 📊 Data Science
+- 🤖 AI-powered Applications
+- 🧠 Machine Learning Projects
+- ⚡ FastAPI & Flask Development
+- 🚀 Generative AI Solutions
+- 📊 Data Science & NLP
 - 💼 Open Source Projects
 
 ---
@@ -48,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi,git,github,vscode,mysql,postgresql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi,mysql,postgresql,sqlite,git,github,vscode"/>
 
 </div>
 
@@ -85,14 +83,14 @@
 
 # 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 📝 **AI Notes Summarizer** | AI-powered document summarizer using Generative AI. |
-| 💬 **Auto Reply AI Chatbot** | Intelligent chatbot that generates automated AI replies. |
-| 🛒 **NovaCart – Flask E-Commerce** | Modern Flask-based e-commerce web application. |
-| 🤖 **AI Internship** | Complete AI internship journey with weekly tasks and implementations. |
-| 🌦️ **Weather Tracking System** | Semester project developed using Programming & DSA. |
-| 🧠 **Types of Intelligent Agents** | Repository explaining different AI agent architectures. |
+| Project | Description |
+|---------|-------------|
+| 📝 **AI Notes Summarizer** | AI-powered document summarization using Generative AI |
+| 💬 **Auto Reply AI Chatbot** | Intelligent chatbot generating automated AI replies |
+| 🛒 **NovaCart** | Flask-based e-commerce application |
+| 🤖 **AI Internship** | AI internship journey with practical implementations |
+| 🌦️ **Weather Tracking System** | Weather tracking project using programming concepts |
+| 🧠 **Types of Intelligent Agents** | AI agents concepts and implementations |
 
 ---
 
@@ -106,15 +104,11 @@
 
 <td align="center">
 
-<a href="assets/certificates/Remote%20Internship%20Completion%20Certificate.pdf">
+<img src="assets/certificates/remote-internship-certificate.png" width="300">
 
-<img src="assets/certificates/remote-internship-certificate.png" width="330">
+<br>
 
-</a>
-
-<br><br>
-
-<b>🏅 Remote Developers Hub Corporation</b>
+<b>Remote Developers Hub Corporation</b>
 
 <br>
 
@@ -124,19 +118,15 @@ Remote Internship Completion Certificate
 
 <td align="center">
 
-<a href="assets/certificates/Introduction%20To%20Generative%20AI.pdf">
-
-<img src="assets/certificates/introduction-to-generative-ai-certificate.png" width="330">
-
-</a>
-
-<br><br>
-
-<b>🏅 Introduction To Generative AI</b>
+<img src="assets/certificates/introduction-to-generative-ai-certificate.png" width="300">
 
 <br>
 
-Google Certificate
+<b>Introduction To Generative AI</b>
+
+<br>
+
+Certificate
 
 </td>
 
@@ -156,11 +146,13 @@ Google Certificate
 
 </div>
 
+---
+
 # 🌱 Currently Learning
 
 <div align="center">
 
-🧠 Deep Learning  
+🧠 Deep Learning
 
 🤖 Large Language Models (LLMs)
 
@@ -200,7 +192,7 @@ Google Certificate
 
 ---
 
-# 📌 My Development Goals
+# 📌 Development Goals
 
 - 🚀 Build scalable AI-powered applications
 - 🤖 Develop practical Machine Learning solutions
@@ -247,6 +239,3 @@ Google Certificate
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=120&section=footer"/>
 
 </div>
-
----
-```
