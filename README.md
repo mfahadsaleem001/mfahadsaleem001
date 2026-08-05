@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:4F46E5&height=240&section=header&text=Muhammad%20Fahad%20Saleem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:4F46E5&height=240&section=header&text=Muhammad%20Fahad%20Saleem%0A%F0%9F%92%BB%20Software%20Engineer%20%7C%20AI%20%26%20Python%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 👋 Hi, I'm Muhammad Fahad Saleem
-
-### 💻 Software Engineer | AI & Python Developer
+# 👋 Welcome to my GitHub Profile
 
 Building intelligent applications with Python, Artificial Intelligence, Machine Learning & Generative AI.
 
