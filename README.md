@@ -16,8 +16,6 @@
 
 <img src="https://img.shields.io/github/followers/mfahadsaleem001?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/mfahadsaleem001?style=for-the-badge"/>
-
 </div>
 
 ---
@@ -27,20 +25,22 @@
 - 🎓 Final Year **BS Software Engineering Student**
 - 🏫 **University of Haripur**
 - 🇵🇰 Based in Pakistan
-- 🐍 AI & Python Developer
+- 💻 Software Engineer & AI Developer
+- 🐍 Passionate Python Developer
 - 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
-- 🚀 Passionate about building real-world intelligent applications
-- 💡 Interested in AI Automation, NLP, Computer Vision & Intelligent Systems
+- 🚀 Building intelligent software solutions using modern technologies
+- 🌱 Always learning and improving through real-world projects
 
 ---
 
 # 🔭 Currently Working On
 
-- 🤖 AI-powered Applications
-- 📚 Machine Learning
-- 🧠 Generative AI
-- ⚡ Flask & FastAPI Development
-- 🚀 Building Real-World AI Projects
+- 🤖 AI Applications
+- 🧠 Machine Learning
+- ⚡ FastAPI & Flask
+- 🚀 Generative AI
+- 📊 Data Science
+- 💼 Open Source Projects
 
 ---
 
@@ -48,13 +48,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,flask,git,github,vscode,mysql,postgresql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi,git,github,vscode,mysql,postgresql,sqlite"/>
 
 </div>
 
 ---
 
-# 🤖 AI & Machine Learning
+# 🤖 Artificial Intelligence & Machine Learning
 
 <div align="center">
 
@@ -88,11 +88,11 @@
 | 🚀 Project | Description |
 |------------|-------------|
 | 📝 **AI Notes Summarizer** | AI-powered document summarizer using Generative AI. |
-| 💬 **Auto Reply AI Chatbot** | Intelligent chatbot that generates automated replies using AI APIs. |
-| 🛒 **NovaCart – Flask E-Commerce** | Complete e-commerce website built with Flask. |
-| 📚 **AI Internship** | Weekly AI learning journey with practical implementations. |
-| 🌦️ **Weather Tracking System** | Semester project developed using programming & DSA concepts. |
-| 🤖 **Types of Intelligent Agents** | Repository explaining different AI agent architectures. |
+| 💬 **Auto Reply AI Chatbot** | Intelligent chatbot that generates automated AI replies. |
+| 🛒 **NovaCart – Flask E-Commerce** | Modern Flask-based e-commerce web application. |
+| 🤖 **AI Internship** | Complete AI internship journey with weekly tasks and implementations. |
+| 🌦️ **Weather Tracking System** | Semester project developed using Programming & DSA. |
+| 🧠 **Types of Intelligent Agents** | Repository explaining different AI agent architectures. |
 
 ---
 
@@ -148,46 +148,41 @@ Google Certificate
 
 ---
 
-# 📊 GitHub Analytics
+# 🚀 Featured Technologies
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,tensorflow,pytorch,mysql,postgresql,git,github,vscode"/>
 
 </div>
 
-<br>
+# 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mfahadsaleem001&theme=tokyonight&hide_border=true"/>
+🧠 Deep Learning  
 
-</div>
+🤖 Large Language Models (LLMs)
 
----
+⚡ FastAPI & AI APIs
 
-# 📈 Contribution Graph
+📊 Data Science
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mfahadsaleem001&theme=tokyo-night&hide_border=true"/>
+☁️ AI Deployment
 
 </div>
 
 ---
-# 🤝 Open to Collaboration
+
+# 🤝 Open To Collaboration
 
 <div align="center">
 
-💼 I'm open to collaborating on:
-
-🤖 AI & Machine Learning Projects
+💡 AI & Machine Learning Projects
 
 🐍 Python Applications
 
-🌐 Flask & FastAPI Backend Development
+🌐 Flask / FastAPI Development
 
 🚀 Open Source Contributions
 
@@ -195,43 +190,23 @@ Google Certificate
 
 ---
 
-# 🌱 Currently Learning
+# 🛠 Tools & Platforms
 
 <div align="center">
 
-🧠 Deep Learning
-
-⚡ FastAPI & AI APIs
-
-🤖 Large Language Models (LLMs)
-
-☁️ AI Deployment
-
-📊 Data Science
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Activity
+# 📌 My Development Goals
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfahadsaleem001&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mfahadsaleem001&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mfahadsaleem001&theme=tokyonight"/>
-
-</div>
+- 🚀 Build scalable AI-powered applications
+- 🤖 Develop practical Machine Learning solutions
+- 🧠 Explore Generative AI and LLM technologies
+- 💻 Improve software engineering practices
+- 🌍 Contribute to impactful projects
 
 ---
 
@@ -240,15 +215,21 @@ Google Certificate
 <div align="center">
 
 <a href="https://www.linkedin.com/in/muhammad-fahad-saleem-b9788133a">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:mfahadsaleem001@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://mfahadsaleem001.github.io/portfolio/">
+
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
 </a>
 
 </div>
@@ -257,10 +238,15 @@ Google Certificate
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+## ⭐ Thanks for Visiting My Profile!
 
-### Building intelligent software one project at a time.
+### Building intelligent software one project at a time 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:4F46E5&height=120&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=120&section=footer"/>
 
 </div>
+
+---
+```
