@@ -1,14 +1,24 @@
 <div align="center">
 
-# Hi 👋, I'm Muhammad Fahad Saleem
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:4F46E5&height=230&section=header&text=Muhammad%20Fahad%20Saleem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### AI & Python Developer | AI & ML Enthusiast | BS Software Engineering Student
+# 👋 Hi, I'm Muhammad Fahad Saleem
+
+### 🚀 AI & Python Developer | AI & ML Enthusiast | BS Software Engineering Student
 
 <p>
-Building intelligent software solutions with Python, Artificial Intelligence, and Machine Learning.
+Building intelligent software solutions with <b>Python</b>, <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Generative AI</b>.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+%26+Python+Developer;AI+%26+ML+Enthusiast;Generative+AI+Explorer;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Python+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Building+Real+World+AI+Projects" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mfahadsaleem001&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/mfahadsaleem001?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/mfahadsaleem001?style=for-the-badge&logo=github"/>
 
 </div>
 
@@ -16,110 +26,73 @@ Building intelligent software solutions with Python, Artificial Intelligence, an
 
 # 👨‍💻 About Me
 
-- 🎓 Final Year **BS Software Engineering Student** at **University of Haripur**
+- 🎓 Final Year **BS Software Engineering Student**
+- 🏫 **University of Haripur**
 - 🇵🇰 Based in Pakistan
-- 🐍 AI & Python Developer passionate about building intelligent applications
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI
-- 🚀 Turning ideas into intelligent software through AI, Python, and continuous learning
+- 🐍 Passionate AI & Python Developer
+- 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
+- 🚀 Building real-world AI applications and continuously improving my development skills
+- 💡 Interested in AI Automation, NLP, Computer Vision & Intelligent Systems
 
 ---
 
 # 🔭 Currently Working On
 
-- Building AI-powered applications using Python and modern AI technologies
-- Exploring Machine Learning and Generative AI solutions
-- Improving software development skills through real-world projects
+- 🤖 AI-powered applications using Python
+- 📚 Machine Learning & Deep Learning
+- 🧠 Generative AI Projects
+- ⚡ Flask & FastAPI Backend Development
+- 🚀 Real-world AI Solutions
 
 ---
 
-# 💻 Programming Skills
+# 💻 Tech Stack
 
-| Technology | Level |
-|------------|-------|
-| 🐍 Python | Advanced |
-| ⚙️ C++ | Basic |
-| 🗄️ SQL & Databases | Basic |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,flask,git,github,vscode,mysql,postgresql,sqlite"/>
+
+</div>
 
 ---
 
-# 🤖 Artificial Intelligence & Machine Learning
+# 🤖 AI / Machine Learning
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-### Libraries & APIs
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
+
+</div>
+
+### 📚 Libraries
 
 - Pandas
 - NumPy
 - NLTK
 - BeautifulSoup
-- OpenAI API
-- Google Gemini API
-
----
-
-# 🌐 Backend Development
-
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
----
-
-# 🗄️ Databases
-
-- SQLite
-- MySQL
-- PostgreSQL
-
----
-
-# 🛠 Tools
-
-- Git
-- GitHub
-- VS Code
 
 ---
 
 # 🚀 Featured Projects
 
-## 📝 AI Notes Summarizer
-
-AI-powered application that summarizes documents and generates useful information using Generative AI.
-
----
-
-## 💬 Auto Reply AI Chatbot
-
-An AI chatbot project that generates intelligent automated replies using AI APIs and Python.
-
----
-
-## 🛒 NovaCart - Flask E-Commerce
-
-A modern Flask-based e-commerce application with product management, authentication, and shopping features.
-
----
-
-## 📚 AI Internship
-
-A collection of my AI internship journey including weekly tasks, experiments, and practical implementations.
-
----
-
-## 🌦️ Weather Tracking System
-
-A semester project developed using programming concepts and data structures to track and display weather information.
-
----
-
-## 🤖 Types of Intelligent Agents
-
-A repository exploring different types of AI agents and their concepts in Artificial Intelligence.
+| 🚀 Project | Description |
+|------------|-------------|
+| 📝 **AI Notes Summarizer** | AI-powered document summarizer using Generative AI |
+| 💬 **Auto Reply AI Chatbot** | Intelligent chatbot that generates automated AI replies |
+| 🛒 **NovaCart - Flask E-Commerce** | Complete Flask-based e-commerce application |
+| 📚 **AI Internship** | Weekly AI learning journey with practical implementations |
+| 🌦️ **Weather Tracking System** | Semester project built using programming & DSA |
+| 🤖 **Types of Intelligent Agents** | Repository explaining various AI agent architectures |
 
 ---
 
@@ -135,36 +108,35 @@ A repository exploring different types of AI agents and their concepts in Artifi
 
 <a href="assets/certificates/Remote%20Internship%20Completion%20Certificate.pdf">
 
-<img src="assets/certificates/remote-internship-certificate.png" width="350">
+<img src="assets/certificates/remote-internship-certificate.png" width="330">
 
 </a>
 
+<br><br>
+
+<b>🏅 Remote Developers Hub Corporation</b>
+
 <br>
 
-<b>Remote Developers Hub Corporation</b>
-
-<br>
-
-Remote Internship Certificate
+Remote Internship Completion Certificate
 
 </td>
-
 
 <td align="center">
 
 <a href="assets/certificates/Introduction%20To%20Generative%20AI.pdf">
 
-<img src="assets/certificates/introduction-to-generative-ai-certificate.png" width="350">
+<img src="assets/certificates/introduction-to-generative-ai-certificate.png" width="330">
 
 </a>
 
+<br><br>
+
+<b>🏅 Introduction To Generative AI</b>
+
 <br>
 
-<b>Introduction To Generative AI</b>
-
-<br>
-
-Certificate
+Google Certificate
 
 </td>
 
@@ -180,7 +152,37 @@ Certificate
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mfahadsaleem001&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mfahadsaleem001&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mfahadsaleem001&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -188,7 +190,7 @@ Certificate
 
 # 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/muhammad-fahad-saleem-b9788133a">
 
@@ -208,14 +210,17 @@ Certificate
 
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💙 Thanks for Visiting My Profile!
 
-**"Code. Learn. Build. Improve. Repeat."**
+### ⭐ "Code • Learn • Build • Improve • Repeat"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=120&section=footer"/>
 
 </div>
+```
