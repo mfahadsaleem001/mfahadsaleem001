@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:4F46E5&height=240&section=header&text=Muhammad%20Fahad%20Saleem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:4F46E5&height=240&section=header&text=Muhammad%20Fahad%20Saleem&desc=SOFTWARE%20ENGINEER&descAlignY=58&fontSize=42&fontColor=ffffff&descSize=22&animation=fadeIn&fontAlignY=35
 
 # 👋 Muhammad Fahad Saleem
 
