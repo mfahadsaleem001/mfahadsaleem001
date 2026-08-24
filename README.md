@@ -19,7 +19,6 @@ Building intelligent applications with Python, Artificial Intelligence, Machine 
 
 - 🎓 Final Year **BS Software Engineering Student**
 - 🏫 University of Haripur
-- 🇵🇰 Based in Pakistan
 - 💻 Software Engineer & AI Developer
 - 🐍 Python Developer passionate about intelligent applications
 - 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
@@ -34,7 +33,6 @@ Building intelligent applications with Python, Artificial Intelligence, Machine 
 - 🧠 Machine Learning Projects
 - ⚡ FastAPI & Flask Development
 - 🚀 Generative AI Solutions
-- 📊 Data Science & NLP
 - 💼 Open Source Projects
 
 ---
@@ -154,8 +152,6 @@ Certificate
 🤖 Large Language Models (LLMs)
 
 ⚡ FastAPI & AI APIs
-
-📊 Data Science
 
 ☁️ AI Deployment
 
