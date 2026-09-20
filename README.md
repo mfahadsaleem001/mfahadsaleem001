@@ -6,13 +6,13 @@
 
 ### Software Engineer | AI & Python Developer | AI & ML Enthusiast
 
-Building practical software solutions with **Python, Artificial Intelligence, Machine Learning, APIs, and modern web technologies.**
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%26+Python+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Projects;Learning+%26+Building+Every+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Python+Developer;Software+Engineering+Student;Backend+%26+API+Developer;AI%2C+ML+%26+NLP+Enthusiast;Building+Practical+Software+Solutions" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mfahadsaleem001&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mfahadsaleem001&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -26,14 +26,6 @@ My development journey started with **Backend Development**, where I worked with
 
 I enjoy learning by building — turning concepts into working projects and continuously improving my software engineering skills.
 
-* 🎓 Final-Year BS Software Engineering Student
-* 💻 Software Engineer & AI/Python Developer
-* 🐍 Python-focused developer
-* 🤖 Interested in AI, Machine Learning, NLP & Generative AI
-* ⚡ Experience with Flask & FastAPI
-* 🗄️ Experience with SQL databases
-* 🚀 Focused on practical, real-world projects
-
 ---
 
 ## 💼 Experience
@@ -43,10 +35,10 @@ I enjoy learning by building — turning concepts into working projects and cont
 **Glaxit Software House — On-site**
 `Jun 2026 – Sep 2026`
 
-* Worked with Machine Learning, NLP, and AI-based data processing pipelines.
-* Built AI/ML APIs using FastAPI.
-* Practiced AI model deployment and containerization with Docker.
-* Worked on automation, evaluation, and monitoring of AI systems.
+* Worked with Machine Learning, NLP, and AI data pipelines.
+* Developed AI/ML APIs using FastAPI.
+* Worked with AI model deployment and containerization using Docker.
+* Practiced automation, evaluation, and monitoring of AI systems.
 * Developed practical AI-focused projects during the internship.
 
 ### 💻 Backend Developer Intern
@@ -54,61 +46,40 @@ I enjoy learning by building — turning concepts into working projects and cont
 **Developers Hub Corporation — Remote**
 `Dec 2025 – Feb 2026`
 
-* Developed a backend-focused e-commerce web application using Python and Flask.
-* Worked with SQL/database integration and backend functionality.
+* Developed backend functionality for a Python/Flask-based e-commerce application.
+* Worked with SQL and database integration.
+* Implemented backend logic and API-related functionality.
 * Used Git and GitHub for version control and project collaboration.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi,mysql,postgresql,sqlite,git,github,vscode,linux"/>
-
-</div>
-
 ### 💻 Programming & Backend
 
-* Python
-* C++ — Basic
-* Flask
-* FastAPI
-* REST APIs
+Python • C++ • Flask • FastAPI • REST APIs
 
 ### 📊 Data & Machine Learning
 
-* Scikit-learn
-* Pandas
-* NumPy
-* NLTK
-* TensorFlow
-* PyTorch
+Scikit-learn • Pandas • NumPy • NLTK • TensorFlow • PyTorch
 
 ### 🤖 AI & Generative AI
 
-* OpenAI API
-* Google Gemini API
-* Hugging Face
-* Natural Language Processing
-* Generative AI
-* LLM-based Applications
+OpenAI API • Google Gemini API • Hugging Face • NLP • Generative AI • LLM Applications
 
 ### 🗄️ Databases & Tools
 
-* SQLite
-* MySQL
-* PostgreSQL — Basic
-* Git
-* GitHub
-* VS Code
-* Linux
+SQLite • MySQL • PostgreSQL • Git • GitHub • VS Code • Linux
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### 1. 💬 Auto Reply AI Chatbot
+### 1. 🤖 Auto Reply AI Chatbot
 
 An AI-powered WhatsApp auto-reply chatbot that reads conversation context and generates intelligent replies using AI.
 
@@ -128,9 +99,9 @@ A university DSA project focused on weather tracking while applying programming 
 
 ---
 
-### 3. 📝 NoteGenius AI — AI Study Assistant
+### 3. 🧠 NoteGenius AI — AI Study Assistant
 
-An AI-powered study assistant designed to process and summarize notes, helping users extract useful information from learning material.
+An AI-powered study assistant designed to process and summarize notes, helping users understand and revise educational content more effectively.
 
 **Tech:** Python, AI, NLP, Generative AI
 
@@ -150,7 +121,7 @@ A Python-based employee management application for managing employee-related inf
 
 ### 5. 🛒 NovaCart — E-Commerce Web Application
 
-A backend-focused e-commerce web application built with Flask, featuring database integration and core e-commerce functionality.
+A backend-focused e-commerce web application built with Flask, featuring database integration and essential e-commerce functionality.
 
 **Tech:** Python, Flask, SQL
 
@@ -170,7 +141,7 @@ An AI-based career planning system designed to provide intelligent career-relate
 
 ### 7. 📚 Novel Scraper & Web-Based Novel Reader
 
-A full-stack novel platform combining a Python-based scraper with a web-based interface for discovering, managing, and reading novels and chapters.
+A full-stack novel platform combining a Python-based scraper with a web-based interface for browsing and reading novels.
 
 **Tech:** Python, HTML, CSS, JavaScript
 
@@ -178,7 +149,7 @@ A full-stack novel platform combining a Python-based scraper with a web-based in
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 <div align="center">
 
@@ -216,31 +187,31 @@ Certificate
 
 </tr>
 
-</table>
+<tr>
 
-<br>
+<td align="center" colspan="2">
 
-### 🏆 Latest Certification
-
-<a href="assets/certificates/Glaxit%20Internship%20Certificate.pdf">
-
-<img src="https://img.shields.io/badge/Glaxit%20Software%20House-AI%20Specialist%20Internship-3B82F6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-</a>
+<img src="assets/certificates/glaxit-internship-certificate.png" width="580">
 
 <br><br>
 
-<a href="assets/certificates/Glaxit%20Internship%20Certificate.pdf">
+<b>Glaxit Software House</b>
 
-<b>📄 View Glaxit Internship Certificate</b>
+<br>
 
-</a>
+AI Specialist Internship Certificate
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+# 📚 Currently Learning
 
 <div align="center">
 
@@ -254,7 +225,7 @@ Certificate
 
 ---
 
-## 🎯 Development Focus
+# 🎯 Development Focus
 
 * 🚀 Build practical AI-powered applications
 * 🤖 Develop useful Machine Learning solutions
@@ -266,9 +237,13 @@ Certificate
 
 ---
 
-## 🤝 Open to Collaboration
+# 🤝 Open to Collaboration
 
 <div align="center">
+
+I'm interested in collaborating on:
+
+<br>
 
 🤖 **AI & Machine Learning Projects**
 🐍 **Python Applications**
@@ -284,58 +259,62 @@ Certificate
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+<a href="https://github.com/mfahadsaleem001">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mfahadsaleem001&theme=tokyonight&hide_border=true" width="700"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mfahadsaleem001&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/muhammad-fahad-saleem-b9788133a">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="mailto:mfahadsaleem001@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://mfahadsaleem001.github.io/portfolio/">
-
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
 
 </a>
 
 <a href="https://github.com/mfahadsaleem001">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" width="48%" alt="Top Languages"/>
 
+</a>
+
+<br><br>
+
+<a href="https://github.com/mfahadsaleem001">
+
+<img src="https://streak-stats.demolab.com/?user=mfahadsaleem001&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
+
+</a>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/mfahadsaleem001">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mfahadsaleem001&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/>
+
+</a>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mfahadsaleem001@gmail.com">
+<img src="https://img.shields.io/badge/Email-mfahadsaleem001%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-fahad-saleem-b9788133a">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Fahad%20Saleem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mfahadsaleem001">
+<img src="https://img.shields.io/badge/GitHub-mfahadsaleem001-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://mfahadsaleem001.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
@@ -344,9 +323,7 @@ Certificate
 
 <div align="center">
 
-### 🚀 Building. Learning. Improving.
-
-**Thanks for visiting my GitHub profile!**
+### 💡 Building. Learning. Improving. 🚀
 
 <br>
 
