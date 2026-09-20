@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:3B82F6&height=240&section=header&text=Muhammad%20Fahad%20Saleem&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%26%20PYTHON%20DEVELOPER&descAlignY=58&fontSize=42&fontColor=ffffff&descSize=20&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:4F46E5&height=240&section=header&text=Muhammad%20Fahad%20Saleem&desc=SOFTWARE%20ENGINEER&descAlignY=58&fontSize=42&fontColor=ffffff&descSize=22&animation=fadeIn&fontAlignY=35"/>
 
 # 👋 Hi, I'm Muhammad Fahad Saleem
 
@@ -22,7 +22,7 @@ Building practical software solutions with **Python, Artificial Intelligence, Ma
 
 I'm a **Final-Year BS Software Engineering student at the University of Haripur**, with a growing focus on **Artificial Intelligence, Machine Learning, and Python-based software development**.
 
-My development journey started with **Backend Development**, where I worked with Python, Flask, databases, and APIs. I later moved deeper into **AI and Machine Learning**, building practical projects and experimenting with NLP, Generative AI, FastAPI, automation, and AI-powered applications.
+My development journey started with **Backend Development**, where I worked with Python, Flask, databases, and APIs. I later moved deeper into **AI and Machine Learning**, building practical projects and exploring NLP, Generative AI, FastAPI, automation, and AI-powered applications.
 
 I enjoy learning by building — turning concepts into working projects and continuously improving my software engineering skills.
 
@@ -38,7 +38,7 @@ I enjoy learning by building — turning concepts into working projects and cont
 
 ## 💼 Experience
 
-### AI Specialist Intern
+### 🤖 AI Specialist Intern
 
 **Glaxit Software House — On-site**
 `Jun 2026 – Sep 2026`
@@ -49,7 +49,7 @@ I enjoy learning by building — turning concepts into working projects and cont
 * Worked on automation, evaluation, and monitoring of AI systems.
 * Developed practical AI-focused projects during the internship.
 
-### Backend Developer Intern
+### 💻 Backend Developer Intern
 
 **Developers Hub Corporation — Remote**
 `Dec 2025 – Feb 2026`
@@ -68,7 +68,7 @@ I enjoy learning by building — turning concepts into working projects and cont
 
 </div>
 
-### Programming & Backend
+### 💻 Programming & Backend
 
 * Python
 * C++ — Basic
@@ -76,7 +76,7 @@ I enjoy learning by building — turning concepts into working projects and cont
 * FastAPI
 * REST APIs
 
-### Data & Machine Learning
+### 📊 Data & Machine Learning
 
 * Scikit-learn
 * Pandas
@@ -85,16 +85,16 @@ I enjoy learning by building — turning concepts into working projects and cont
 * TensorFlow
 * PyTorch
 
-### AI & Generative AI
+### 🤖 AI & Generative AI
 
 * OpenAI API
 * Google Gemini API
 * Hugging Face
-* NLP
+* Natural Language Processing
 * Generative AI
 * LLM-based Applications
 
-### Databases & Tools
+### 🗄️ Databases & Tools
 
 * SQLite
 * MySQL
@@ -112,19 +112,19 @@ I enjoy learning by building — turning concepts into working projects and cont
 
 An AI-powered WhatsApp auto-reply chatbot that reads conversation context and generates intelligent replies using AI.
 
-**Tech:** Python, PyAutoGUI, Pyperclip, OpenAI SDK, Groq API, Llama
+**Tech:** Python, PyAutoGUI, Pyperclip, OpenAI SDK, Groq API, Llama 3.3
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/auto-reply-ai-chatbot)
+🔗 **[View Repository](https://github.com/mfahadsaleem001/auto-reply-ai-chatbot)**
 
 ---
 
 ### 2. 🌦️ Weather Tracking System
 
-A university DSA project focused on weather tracking and applying programming and data-structure concepts to a practical system.
+A university DSA project focused on weather tracking while applying programming and data-structure concepts to a practical system.
 
-**Tech:** C++ / DSA
+**Tech:** C++ / Data Structures & Algorithms
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/5th_semster_project_DSA)
+🔗 **[View Repository](https://github.com/mfahadsaleem001/5th_semster_project_DSA)**
 
 ---
 
@@ -134,7 +134,7 @@ An AI-powered study assistant designed to process and summarize notes, helping u
 
 **Tech:** Python, AI, NLP, Generative AI
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/AI-Notes-Summarizer)
+🔗 **[View Repository](https://github.com/mfahadsaleem001/AI-Notes-Summarizer)**
 
 ---
 
@@ -144,7 +144,7 @@ A Python-based employee management application for managing employee-related inf
 
 **Tech:** Python
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/employee-manager)
+🔗 **[View Repository](https://github.com/mfahadsaleem001/employee-manager)**
 
 ---
 
@@ -154,7 +154,7 @@ A backend-focused e-commerce web application built with Flask, featuring databas
 
 **Tech:** Python, Flask, SQL
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/NovaCart)
+🔗 **[View Repository](https://github.com/mfahadsaleem001/NovaCart)**
 
 ---
 
@@ -164,7 +164,7 @@ An AI-based career planning system designed to provide intelligent career-relate
 
 **Tech:** Python, AI, Machine Learning, Generative AI
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/careercompass-ai)
+🔗 **[View Repository](https://github.com/mfahadsaleem001/careercompass-ai)**
 
 ---
 
@@ -174,7 +174,7 @@ A full-stack novel platform combining a Python-based scraper with a web-based in
 
 **Tech:** Python, HTML, CSS, JavaScript
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/Novel-Scraper)
+🔗 **[View Repository](https://github.com/mfahadsaleem001/Novel-Scraper)**
 
 ---
 
@@ -226,7 +226,11 @@ Certificate
 
 <div align="center">
 
-**Deep Learning** • **Large Language Models** • **Generative AI** • **AI APIs** • **AI Deployment**
+🧠 **Deep Learning**   •  
+🤖 **Large Language Models**   •  
+✨ **Generative AI**   •  
+⚡ **AI APIs**   •  
+🐳 **AI Deployment**
 
 </div>
 
@@ -234,25 +238,49 @@ Certificate
 
 ## 🎯 Development Focus
 
-* 🤖 Build practical AI-powered applications
-* 🧠 Develop useful Machine Learning solutions
-* 🔎 Explore NLP and LLM technologies
+* 🚀 Build practical AI-powered applications
+* 🤖 Develop useful Machine Learning solutions
+* 🧠 Explore NLP and LLM technologies
 * ⚡ Build scalable Python APIs
-* 🐳 Learn better AI deployment practices
+* 🐳 Improve AI deployment and containerization skills
 * 💻 Improve software architecture and engineering practices
-* 🌍 Continue building real-world projects
+* 🌍 Continue building real-world software projects
 
 ---
 
 ## 🤝 Open to Collaboration
 
-I'm interested in collaborating on:
+<div align="center">
 
-* 🤖 AI & Machine Learning Projects
-* 🐍 Python Applications
-* 🌐 Flask / FastAPI Projects
-* 🧠 NLP & Generative AI Projects
-* 🚀 Open Source Projects
+🤖 **AI & Machine Learning Projects**
+🐍 **Python Applications**
+🌐 **Flask / FastAPI Projects**
+🧠 **NLP & Generative AI Projects**
+🚀 **Open Source Projects**
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mfahadsaleem001&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -296,6 +324,6 @@ I'm interested in collaborating on:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E293B&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=120&section=footer"/>
 
 </div>
