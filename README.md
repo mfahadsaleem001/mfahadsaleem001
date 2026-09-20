@@ -6,146 +6,154 @@
 
 ### Software Engineer | AI & Python Developer | AI & ML Enthusiast
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Python+Developer;Software+Engineering+Student;Backend+%26+API+Developer;AI%2C+ML+%26+NLP+Enthusiast;Building+Practical+Software+Solutions" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=mfahadsaleem001&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views"/>
+<p>
+  <a href="https://github.com/mfahadsaleem001">
+    <img src="https://komarev.com/ghpvc/?username=mfahadsaleem001&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Final-Year BS Software Engineering student at the University of Haripur**, with a growing focus on **Artificial Intelligence, Machine Learning, and Python-based software development**.
+I'm a **Software Engineering student** and **AI & Python Developer** passionate about building practical, intelligent, and scalable software solutions.
 
-My development journey started with **Backend Development**, where I worked with Python, Flask, databases, and APIs. I later moved deeper into **AI and Machine Learning**, building practical projects and exploring NLP, Generative AI, FastAPI, automation, and AI-powered applications.
-
-I enjoy learning by building — turning concepts into working projects and continuously improving my software engineering skills.
-
----
-
-## 💼 Experience
-
-### 🤖 AI Specialist Intern
-
-**Glaxit Software House — On-site**
-`Jun 2026 – Sep 2026`
-
-* Worked with Machine Learning, NLP, and AI data pipelines.
-* Developed AI/ML APIs using FastAPI.
-* Worked with AI model deployment and containerization using Docker.
-* Practiced automation, evaluation, and monitoring of AI systems.
-* Developed practical AI-focused projects during the internship.
-
-### 💻 Backend Developer Intern
-
-**Developers Hub Corporation — Remote**
-`Dec 2025 – Feb 2026`
-
-* Developed backend functionality for a Python/Flask-based e-commerce application.
-* Worked with SQL and database integration.
-* Implemented backend logic and API-related functionality.
-* Used Git and GitHub for version control and project collaboration.
+* 🎓 BS Software Engineering — University of Haripur
+* 🤖 Focused on Artificial Intelligence, Machine Learning & NLP
+* 🐍 Strong interest in Python backend development
+* 🔌 Experienced in building REST APIs and AI-powered applications
+* 🧠 Exploring Generative AI, LLM applications and intelligent automation
+* 🐳 Learning deployment, Docker and production-ready AI systems
+* 🚀 Interested in building real-world software products
 
 ---
 
-## 🛠️ Tech Stack
+# 💼 Experience
 
-<div align="center">
+### 🤖 AI Specialist Intern — Glaxit Software House
 
-### 💻 Programming & Backend
+**On-site | Jun 2026 – Sep 2026**
 
-Python • C++ • Flask • FastAPI • REST APIs
+* Worked with Machine Learning, NLP and AI data pipelines
+* Built AI/ML APIs using FastAPI
+* Worked with model deployment and containerization using Docker
+* Implemented automation, model evaluation and monitoring workflows
+* Developed practical AI-focused projects and solutions
 
-### 📊 Data & Machine Learning
+### 🐍 Backend Developer Intern — Developers Hub Corporation
 
-Scikit-learn • Pandas • NumPy • NLTK • TensorFlow • PyTorch
+**Remote | Dec 2025 – Feb 2026**
 
-### 🤖 AI & Generative AI
+* Developed backend functionality for an e-commerce web application using Python and Flask
+* Worked with SQL and database integration
+* Implemented backend logic and API functionality
+* Used Git and GitHub for version control and project collaboration
 
-OpenAI API • Google Gemini API • Hugging Face • NLP • Generative AI • LLM Applications
+---
 
-### 🗄️ Databases & Tools
+# 🛠️ Tech Stack
 
-SQLite • MySQL • PostgreSQL • Git • GitHub • VS Code • Linux
+### 👨‍💻 Programming & Backend
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi" />
+</p>
+
+### 🤖 AI, Machine Learning & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+**Scikit-learn · Pandas · NumPy · NLTK · NLP · Generative AI · LLM Applications**
+
+### 🧠 AI APIs & Tools
+
+**OpenAI API · Google Gemini API · Hugging Face**
+
+### 🗄️ Databases
+
+**SQLite · MySQL · PostgreSQL**
+
+### ⚙️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 1. 🤖 Auto Reply AI Chatbot
+### 🤖 Auto Reply AI Chatbot
 
-An AI-powered WhatsApp auto-reply chatbot that reads conversation context and generates intelligent replies using AI.
+AI-powered chatbot designed to generate intelligent automated replies.
 
-**Tech:** Python, PyAutoGUI, Pyperclip, OpenAI SDK, Groq API, Llama 3.3
+**Technologies:** Python · NLP · AI APIs
 
-🔗 **[View Repository](https://github.com/mfahadsaleem001/auto-reply-ai-chatbot)**
-
----
-
-### 2. 🌦️ Weather Tracking System
-
-A university DSA project focused on weather tracking while applying programming and data-structure concepts to a practical system.
-
-**Tech:** C++ / Data Structures & Algorithms
-
-🔗 **[View Repository](https://github.com/mfahadsaleem001/5th_semster_project_DSA)**
+🔗 [View Repository](https://github.com/mfahadsaleem001/auto-reply-ai-chatbot)
 
 ---
 
-### 3. 🧠 NoteGenius AI — AI Study Assistant
+### 🌦️ Weather Tracking System
 
-An AI-powered study assistant designed to process and summarize notes, helping users understand and revise educational content more effectively.
+A semester project developed using Data Structures and Algorithms for tracking and managing weather-related data.
 
-**Tech:** Python, AI, NLP, Generative AI
+**Technologies:** C++ · Data Structures · Algorithms
 
-🔗 **[View Repository](https://github.com/mfahadsaleem001/AI-Notes-Summarizer)**
-
----
-
-### 4. 👨‍💼 Employee Manager
-
-A Python-based employee management application for managing employee-related information and operations.
-
-**Tech:** Python
-
-🔗 **[View Repository](https://github.com/mfahadsaleem001/employee-manager)**
+🔗 [View Repository](https://github.com/mfahadsaleem001/5th_semster_project_DSA)
 
 ---
 
-### 5. 🛒 NovaCart — E-Commerce Web Application
+### 📝 NoteGenius AI — AI Study Assistant
 
-A backend-focused e-commerce web application built with Flask, featuring database integration and essential e-commerce functionality.
+AI-powered study assistant for processing educational documents and generating useful study content.
 
-**Tech:** Python, Flask, SQL
+**Technologies:** Python · Flask · Gemini API · NLP
 
-🔗 **[View Repository](https://github.com/mfahadsaleem001/NovaCart)**
-
----
-
-### 6. 🧭 Career Compass AI
-
-An AI-based career planning system designed to provide intelligent career-related guidance and recommendations.
-
-**Tech:** Python, AI, Machine Learning, Generative AI
-
-🔗 **[View Repository](https://github.com/mfahadsaleem001/careercompass-ai)**
+🔗 [View Repository](https://github.com/mfahadsaleem001/AI-Notes-Summarizer)
 
 ---
 
-### 7. 📚 Novel Scraper & Web-Based Novel Reader
+### 👥 Employee Manager
 
-A full-stack novel platform combining a Python-based scraper with a web-based interface for browsing and reading novels.
+Employee management application for organizing and managing employee information.
 
-**Tech:** Python, HTML, CSS, JavaScript
+**Technologies:** Python · Flask · Database
 
-🔗 **[View Repository](https://github.com/mfahadsaleem001/Novel-Scraper)**
+🔗 [View Repository](https://github.com/mfahadsaleem001/employee-manager)
+
+---
+
+### 🛒 NovaCart — E-Commerce Web Application
+
+A Flask-based e-commerce web application with product management, database integration and a professional user interface.
+
+**Technologies:** Python · Flask · SQLite · SQL
+
+🔗 [View Repository](https://github.com/mfahadsaleem001/NovaCart)
+
+---
+
+### 🎯 Career Compass AI
+
+AI-powered career assistance project designed to provide intelligent career-related guidance.
+
+**Technologies:** Python · AI · NLP · Generative AI
+
+🔗 [View Repository](https://github.com/mfahadsaleem001/careercompass-ai)
+
+---
+
+### 📚 Novel Scraper & Web-Based Novel Reader
+
+A full-stack novel scraping and reading platform that collects novel information and chapters and provides a web-based reading experience.
+
+**Technologies:** Python · Web Scraping · HTML · CSS · JavaScript
+
+🔗 [View Repository](https://github.com/mfahadsaleem001/Novel-Scraper)
 
 ---
 
@@ -154,12 +162,11 @@ A full-stack novel platform combining a Python-based scraper with a web-based in
 <div align="center">
 
 <table>
-
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
-<img src="assets/certificates/remote-internship-certificate.png" width="280">
+<img src="https://raw.githubusercontent.com/mfahadsaleem001/mfahadsaleem001/main/assets/certificates/remote-internship-certificate.png" width="320" alt="Developers Hub Remote Internship Certificate">
 
 <br><br>
 
@@ -171,9 +178,9 @@ Remote Internship Completion Certificate
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
-<img src="assets/certificates/introduction-to-generative-ai-certificate.png" width="280">
+<img src="https://raw.githubusercontent.com/mfahadsaleem001/mfahadsaleem001/main/assets/certificates/introduction-to-generative-ai-certificate.png" width="320" alt="Introduction to Generative AI Certificate">
 
 <br><br>
 
@@ -191,7 +198,7 @@ Certificate
 
 <td align="center" colspan="2">
 
-<img src="assets/certificates/glaxit-internship-certificate.png" width="580">
+<img src="https://raw.githubusercontent.com/mfahadsaleem001/mfahadsaleem001/main/assets/certificates/glaxit-internship-certificate.png" width="650" alt="Glaxit AI Specialist Internship Certificate">
 
 <br><br>
 
@@ -213,45 +220,45 @@ AI Specialist Internship Certificate
 
 # 📚 Currently Learning
 
-<div align="center">
-
-🧠 **Deep Learning**   •  
-🤖 **Large Language Models**   •  
-✨ **Generative AI**   •  
-⚡ **AI APIs**   •  
-🐳 **AI Deployment**
-
-</div>
+* Advanced Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Generative AI
+* Large Language Models
+* AI Agents
+* AI Model Deployment
+* Docker & Production AI Systems
+* Scalable Backend Architecture
 
 ---
 
 # 🎯 Development Focus
 
-* 🚀 Build practical AI-powered applications
-* 🤖 Develop useful Machine Learning solutions
-* 🧠 Explore NLP and LLM technologies
-* ⚡ Build scalable Python APIs
-* 🐳 Improve AI deployment and containerization skills
-* 💻 Improve software architecture and engineering practices
-* 🌍 Continue building real-world software projects
+```text
+Artificial Intelligence
+Machine Learning
+Natural Language Processing
+Generative AI
+LLM Applications
+Python Backend Development
+REST APIs
+AI Model Deployment
+Intelligent Automation
+Software Engineering
+```
 
 ---
 
 # 🤝 Open to Collaboration
 
-<div align="center">
-
 I'm interested in collaborating on:
 
-<br>
-
-🤖 **AI & Machine Learning Projects**
-🐍 **Python Applications**
-🌐 **Flask / FastAPI Projects**
-🧠 **NLP & Generative AI Projects**
-🚀 **Open Source Projects**
-
-</div>
+* 🤖 AI & Machine Learning projects
+* 🧠 NLP & Generative AI applications
+* 🐍 Python backend projects
+* 🔌 AI-powered APIs
+* 🚀 Open-source software
+* 💡 Innovative software engineering projects
 
 ---
 
@@ -283,38 +290,24 @@ I'm interested in collaborating on:
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/mfahadsaleem001">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mfahadsaleem001&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/>
-
-</a>
-
-</div>
-
----
-
-# 📫 Connect With Me
+# 🔗 Connect With Me
 
 <div align="center">
 
 <a href="mailto:mfahadsaleem001@gmail.com">
-<img src="https://img.shields.io/badge/Email-mfahadsaleem001%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-fahad-saleem-b9788133a">
-<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Fahad%20Saleem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mfahadsaleem001">
-<img src="https://img.shields.io/badge/GitHub-mfahadsaleem001-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://mfahadsaleem001.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -323,9 +316,7 @@ I'm interested in collaborating on:
 
 <div align="center">
 
-### 💡 Building. Learning. Improving. 🚀
-
-<br>
+### 💡 Building Intelligent Solutions with Python & AI
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=120&section=footer"/>
 
