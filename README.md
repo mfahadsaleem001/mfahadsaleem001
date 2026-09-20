@@ -198,7 +198,7 @@ Certificate
 
 <td align="center" colspan="2">
 
-<img src="https://raw.githubusercontent.com/mfahadsaleem001/mfahadsaleem001/main/assets/certificates/glaxit-internship-certificate.png" width="650" alt="Glaxit AI Specialist Internship Certificate">
+<img src="https://raw.githubusercontent.com/mfahadsaleem001/mfahadsaleem001/main/assets/certificates/Glaxit%20Internship%20Certificate.png" width="650" alt="Glaxit AI Specialist Internship Certificate">
 
 <br><br>
 
