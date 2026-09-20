@@ -347,15 +347,6 @@ AI Specialist Internship Certificate
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/mfahadsaleem001">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-
-</a>
 
 <a href="https://github.com/mfahadsaleem001">
 
