@@ -206,7 +206,7 @@ AI-powered chatbot designed to generate intelligent automated replies.
 
 A semester project based on Data Structures and Algorithms for managing and tracking weather-related data.
 
-**C++ · Data Structures · Algorithms**
+**Python · Data Structures · Algorithms**
 
 <a href="https://github.com/mfahadsaleem001/5th_semster_project_DSA">
 <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
