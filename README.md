@@ -188,7 +188,7 @@ A full-stack novel platform combining a Python-based scraper with a web-based in
 
 <td align="center">
 
-<img src="assets/certificates/remote-internship-certificate.png" width="300">
+<img src="assets/certificates/remote-internship-certificate.png" width="280">
 
 <br><br>
 
@@ -202,7 +202,7 @@ Remote Internship Completion Certificate
 
 <td align="center">
 
-<img src="assets/certificates/introduction-to-generative-ai-certificate.png" width="300">
+<img src="assets/certificates/introduction-to-generative-ai-certificate.png" width="280">
 
 <br><br>
 
@@ -217,6 +217,24 @@ Certificate
 </tr>
 
 </table>
+
+<br>
+
+### 🏆 Latest Certification
+
+<a href="assets/certificates/Glaxit%20Internship%20Certificate.pdf">
+
+<img src="https://img.shields.io/badge/Glaxit%20Software%20House-AI%20Specialist%20Internship-3B82F6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="assets/certificates/Glaxit%20Internship%20Certificate.pdf">
+
+<b>📄 View Glaxit Internship Certificate</b>
+
+</a>
 
 </div>
 
@@ -262,23 +280,31 @@ Certificate
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mfahadsaleem001&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mfahadsaleem001&theme=tokyonight&hide_border=true" width="700"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mfahadsaleem001&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mfahadsaleem001&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
