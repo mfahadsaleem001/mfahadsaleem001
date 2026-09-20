@@ -1,159 +1,278 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:4F46E5&height=240&section=header&text=Muhammad%20Fahad%20Saleem&desc=SOFTWARE%20ENGINEER&descAlignY=58&fontSize=42&fontColor=ffffff&descSize=22&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:4F46E5&height=230&section=header&text=Muhammad%20Fahad%20Saleem&desc=SOFTWARE%20ENGINEER&descAlignY=58&fontSize=42&fontColor=ffffff&descSize=21&animation=fadeIn&fontAlignY=35"/>
 
-# 👋 Hi, I'm Muhammad Fahad Saleem
+# Muhammad Fahad Saleem
 
-### Software Engineer | AI & Python Developer | AI & ML Enthusiast
+### Software Engineer · AI & Python Developer · AI & ML Enthusiast
 
 <p>
-  <a href="https://github.com/mfahadsaleem001">
-    <img src="https://komarev.com/ghpvc/?username=mfahadsaleem001&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views"/>
+  <a href="https://mfahadsaleem001.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-2563EB?style=for-the-badge&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/muhammad-fahad-saleem-b9788133a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mfahadsaleem001">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  <a href="mailto:mfahadsaleem001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mfahadsaleem001&label=Profile%20Views&color=2563EB&style=flat-square"/>
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Software Engineering student** and **AI & Python Developer** passionate about building practical, intelligent, and scalable software solutions.
+I'm a **Software Engineering student and AI & Python Developer** focused on building practical software, intelligent applications, and AI-powered solutions.
 
-* 🎓 BS Software Engineering — University of Haripur
-* 🤖 Focused on Artificial Intelligence, Machine Learning & NLP
-* 🐍 Strong interest in Python backend development
-* 🔌 Experienced in building REST APIs and AI-powered applications
-* 🧠 Exploring Generative AI, LLM applications and intelligent automation
-* 🐳 Learning deployment, Docker and production-ready AI systems
-* 🚀 Interested in building real-world software products
+My development journey started with **Python backend development and software engineering**, and gradually expanded into **Artificial Intelligence, Machine Learning, NLP, Generative AI, and AI-powered APIs**.
+
+I enjoy turning ideas into working products — from backend systems and APIs to AI applications and full-stack projects.
+
+<div align="center">
+
+|       🎓 Education      | 🤖 AI Focus | 🐍 Backend |        🚀 Goal       |
+| :---------------------: | :---------: | :--------: | :------------------: |
+| BS Software Engineering |   AI & ML   |   Python   | Intelligent Software |
+
+</div>
 
 ---
 
-# 💼 Experience
+## 💼 Professional Experience
 
 ### 🤖 AI Specialist Intern — Glaxit Software House
 
-**On-site | Jun 2026 – Sep 2026**
+**On-site · Jun 2026 – Sep 2026**
 
 * Worked with Machine Learning, NLP and AI data pipelines
-* Built AI/ML APIs using FastAPI
-* Worked with model deployment and containerization using Docker
-* Implemented automation, model evaluation and monitoring workflows
-* Developed practical AI-focused projects and solutions
+* Built AI/ML APIs using **FastAPI**
+* Worked with **Docker-based model deployment and containerization**
+* Implemented automation, evaluation and monitoring workflows
+* Developed practical AI-focused solutions
 
 ### 🐍 Backend Developer Intern — Developers Hub Corporation
 
-**Remote | Dec 2025 – Feb 2026**
+**Remote · Dec 2025 – Feb 2026**
 
-* Developed backend functionality for an e-commerce web application using Python and Flask
+* Developed backend functionality for an e-commerce application using **Python & Flask**
 * Worked with SQL and database integration
 * Implemented backend logic and API functionality
-* Used Git and GitHub for version control and project collaboration
+* Used **Git & GitHub** for version control and collaboration
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Technical Skills
 
-### 👨‍💻 Programming & Backend
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi" />
-</p>
-
-### 🤖 AI, Machine Learning & Data
+### 💻 Programming & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi"/>
 </p>
 
-**Scikit-learn · Pandas · NumPy · NLTK · NLP · Generative AI · LLM Applications**
+**Python · C++ · Flask · FastAPI · REST APIs**
 
-### 🧠 AI APIs & Tools
+<br>
 
-**OpenAI API · Google Gemini API · Hugging Face**
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+**Scikit-learn · TensorFlow · PyTorch · NLP · Generative AI · LLM Applications**
+
+<br>
+
+### 📊 Data & AI Libraries
+
+**Pandas · NumPy · NLTK · BeautifulSoup · Hugging Face**
+
+<br>
+
+### 🔌 AI APIs
+
+**OpenAI API · Google Gemini API**
+
+<br>
 
 ### 🗄️ Databases
 
 **SQLite · MySQL · PostgreSQL**
 
-### ⚙️ Development Tools
+<br>
+
+### ⚙️ Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
 </p>
+
+**Git · GitHub · VS Code · Linux · Docker**
+
+</div>
+
+---
+
+# 🎯 Development Focus
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖
+
+### Artificial Intelligence
+
+Machine Learning
+Deep Learning
+AI Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+### Generative AI
+
+LLM Applications
+NLP
+AI Assistants
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍
+
+### Python Engineering
+
+Backend Development
+REST APIs
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+### AI Deployment
+
+FastAPI
+Docker
+Production AI
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 ### 🤖 Auto Reply AI Chatbot
 
 AI-powered chatbot designed to generate intelligent automated replies.
 
-**Technologies:** Python · NLP · AI APIs
+**Python · NLP · AI APIs**
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/auto-reply-ai-chatbot)
+<a href="https://github.com/mfahadsaleem001/auto-reply-ai-chatbot">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br><br>
 
 ### 🌦️ Weather Tracking System
 
-A semester project developed using Data Structures and Algorithms for tracking and managing weather-related data.
+A semester project based on Data Structures and Algorithms for managing and tracking weather-related data.
 
-**Technologies:** C++ · Data Structures · Algorithms
+**C++ · Data Structures · Algorithms**
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/5th_semster_project_DSA)
+<a href="https://github.com/mfahadsaleem001/5th_semster_project_DSA">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br><br>
 
 ### 📝 NoteGenius AI — AI Study Assistant
 
 AI-powered study assistant for processing educational documents and generating useful study content.
 
-**Technologies:** Python · Flask · Gemini API · NLP
+**Python · Flask · Gemini API · NLP**
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/AI-Notes-Summarizer)
+<a href="https://github.com/mfahadsaleem001/AI-Notes-Summarizer">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br><br>
 
 ### 👥 Employee Manager
 
 Employee management application for organizing and managing employee information.
 
-**Technologies:** Python · Flask · Database
+**Python · Flask · Database**
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/employee-manager)
+<a href="https://github.com/mfahadsaleem001/employee-manager">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br><br>
 
 ### 🛒 NovaCart — E-Commerce Web Application
 
-A Flask-based e-commerce web application with product management, database integration and a professional user interface.
+Flask-based e-commerce application with product management and database integration.
 
-**Technologies:** Python · Flask · SQLite · SQL
+**Python · Flask · SQLite · SQL**
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/NovaCart)
+<a href="https://github.com/mfahadsaleem001/NovaCart">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br><br>
 
 ### 🎯 Career Compass AI
 
-AI-powered career assistance project designed to provide intelligent career-related guidance.
+AI-powered career assistance application designed to provide intelligent career guidance.
 
-**Technologies:** Python · AI · NLP · Generative AI
+**Python · AI · NLP · Generative AI**
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/careercompass-ai)
+<a href="https://github.com/mfahadsaleem001/careercompass-ai">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br><br>
 
 ### 📚 Novel Scraper & Web-Based Novel Reader
 
-A full-stack novel scraping and reading platform that collects novel information and chapters and provides a web-based reading experience.
+Full-stack novel scraping and reading platform with a web-based reading experience.
 
-**Technologies:** Python · Web Scraping · HTML · CSS · JavaScript
+**Python · Web Scraping · HTML · CSS · JavaScript**
 
-🔗 [View Repository](https://github.com/mfahadsaleem001/Novel-Scraper)
+<a href="https://github.com/mfahadsaleem001/Novel-Scraper">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -166,7 +285,7 @@ A full-stack novel scraping and reading platform that collects novel information
 
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/mfahadsaleem001/mfahadsaleem001/main/assets/certificates/remote-internship-certificate.png" width="320" alt="Developers Hub Remote Internship Certificate">
+<img src="https://raw.githubusercontent.com/mfahadsaleem001/mfahadsaleem001/main/assets/certificates/remote-internship-certificate.png" width="320" alt="Developers Hub Remote Internship Certificate"/>
 
 <br><br>
 
@@ -180,7 +299,7 @@ Remote Internship Completion Certificate
 
 <td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/mfahadsaleem001/mfahadsaleem001/main/assets/certificates/introduction-to-generative-ai-certificate.png" width="320" alt="Introduction to Generative AI Certificate">
+<img src="https://raw.githubusercontent.com/mfahadsaleem001/mfahadsaleem001/main/assets/certificates/introduction-to-generative-ai-certificate.png" width="320" alt="Introduction to Generative AI Certificate"/>
 
 <br><br>
 
@@ -198,7 +317,7 @@ Certificate
 
 <td align="center" colspan="2">
 
-<img src="https://raw.githubusercontent.com/mfahadsaleem001/mfahadsaleem001/main/assets/certificates/Glaxit%20Internship%20Certificate.png" width="650" alt="Glaxit AI Specialist Internship Certificate">
+<img src="https://raw.githubusercontent.com/mfahadsaleem001/mfahadsaleem001/main/assets/certificates/Glaxit%20Internship%20Certificate.png" width="650" alt="Glaxit AI Specialist Internship Certificate"/>
 
 <br><br>
 
@@ -220,49 +339,15 @@ AI Specialist Internship Certificate
 
 # 📚 Currently Learning
 
-* Advanced Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Generative AI
-* Large Language Models
-* AI Agents
-* AI Model Deployment
-* Docker & Production AI Systems
-* Scalable Backend Architecture
+<div align="center">
+
+`Advanced ML` · `Deep Learning` · `NLP` · `Generative AI` · `LLMs` · `AI Agents` · `Docker` · `AI Deployment`
+
+</div>
 
 ---
 
-# 🎯 Development Focus
-
-```text
-Artificial Intelligence
-Machine Learning
-Natural Language Processing
-Generative AI
-LLM Applications
-Python Backend Development
-REST APIs
-AI Model Deployment
-Intelligent Automation
-Software Engineering
-```
-
----
-
-# 🤝 Open to Collaboration
-
-I'm interested in collaborating on:
-
-* 🤖 AI & Machine Learning projects
-* 🧠 NLP & Generative AI applications
-* 🐍 Python backend projects
-* 🔌 AI-powered APIs
-* 🚀 Open-source software
-* 💡 Innovative software engineering projects
-
----
-
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -290,24 +375,30 @@ I'm interested in collaborating on:
 
 ---
 
-# 🔗 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
-<a href="mailto:mfahadsaleem001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
+### Interested in AI, Python, Software Engineering or building something useful?
+
+<br>
+
+<a href="https://mfahadsaleem001.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-2563EB?style=for-the-badge&logoColor=white"/>
 </a>
 
+<a href="mailto:mfahadsaleem001@gmail.com">
+<img src="https://img.shields.io/badge/✉%20GET%20IN%20TOUCH-EA4335?style=for-the-badge&logoColor=white"/>
+</a>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/muhammad-fahad-saleem-b9788133a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mfahadsaleem001">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://mfahadsaleem001.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -318,6 +409,8 @@ I'm interested in collaborating on:
 
 ### 💡 Building Intelligent Solutions with Python & AI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=120&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:3B82F6,100:2563EB&height=120&section=footer"/>
 
 </div>
