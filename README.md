@@ -345,26 +345,7 @@ AI Specialist Internship Certificate
 
 </div>
 
----
 
-
-<a href="https://github.com/mfahadsaleem001">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadsaleem001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" width="48%" alt="Top Languages"/>
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/mfahadsaleem001">
-
-<img src="https://streak-stats.demolab.com/?user=mfahadsaleem001&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
-
-</a>
-
-</div>
-
----
 
 # 🤝 Let's Connect
 
