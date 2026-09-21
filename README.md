@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering student and AI & Python Developer** focused on building practical software, intelligent applications, and AI-powered solutions.
+I'm a **Final Year Software Engineering student and AI & Python Developer** focused on building practical software, intelligent applications, and AI-powered solutions.
 
 My development journey started with **Python backend development and software engineering**, and gradually expanded into **Artificial Intelligence, Machine Learning, NLP, Generative AI, and AI-powered APIs**.
 
