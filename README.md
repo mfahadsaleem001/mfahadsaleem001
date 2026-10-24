@@ -49,6 +49,15 @@ I enjoy turning ideas into working products — from backend systems and APIs to
 
 ## 💼 Professional Experience
 
+### 🐍 Backend Developer Intern — Developers Hub Corporation
+
+**Remote · Dec 2025 – Feb 2026**
+
+* Developed backend functionality for an e-commerce application using **Python & Flask**
+* Worked with SQL and database integration
+* Implemented backend logic and API functionality
+* Used **Git & GitHub** for version control and collaboration
+
 ### 🤖 AI Specialist Intern — Glaxit Software House
 
 **On-site · Jun 2026 – Sep 2026**
@@ -58,15 +67,6 @@ I enjoy turning ideas into working products — from backend systems and APIs to
 * Worked with **Docker-based model deployment and containerization**
 * Implemented automation, evaluation and monitoring workflows
 * Developed practical AI-focused solutions
-
-### 🐍 Backend Developer Intern — Developers Hub Corporation
-
-**Remote · Dec 2025 – Feb 2026**
-
-* Developed backend functionality for an e-commerce application using **Python & Flask**
-* Worked with SQL and database integration
-* Implemented backend logic and API functionality
-* Used **Git & GitHub** for version control and collaboration
 
 ---
 
